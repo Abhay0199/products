@@ -5,7 +5,7 @@
   "main": "productsData.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "productsData.js"
+    "start": "node productsData.js"
   },
   "keywords": [],
   "author": "",
